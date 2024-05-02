@@ -1,1 +1,1 @@
-export const DB_NAME = "Mega project";
+export const DB_NAME = "MegaProject";
